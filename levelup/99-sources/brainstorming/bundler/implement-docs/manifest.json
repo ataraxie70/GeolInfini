@@ -1,0 +1,18 @@
+{
+  "project": "LEVELUP",
+  "description": "Pack reconstruit de livrables à partir des archives fournies",
+  "documents": [
+    "00_persona_contract.md",
+    "01_source_map.md",
+    "02_vision_et_cadrage.md",
+    "03_exigences.md",
+    "04_modele_de_domaine.md",
+    "05_architecture_globale.md",
+    "06_modele_de_donnees.md",
+    "07_ui_ux.md",
+    "08_moteurs_metier.md",
+    "09_contrats_api.md",
+    "10_qualite_securite_gouvernance.md",
+    "11_roadmap_et_decoupage.md"
+  ]
+}

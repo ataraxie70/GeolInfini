@@ -1,0 +1,6 @@
+BEGIN;
+
+CREATE SCHEMA IF NOT EXISTS publications;
+CREATE SCHEMA IF NOT EXISTS consultation;
+
+COMMIT;
